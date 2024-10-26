@@ -1,5 +1,7 @@
 # Hello FPGA
 
+From https://mu.microchip.com/hello-fpga
+
 ## Introduction
 
 - [x] What is an FPGA
@@ -7,8 +9,8 @@
 
 ## Microchip FPGA Product Famillies
 
-- [ ] Advantages of Microchip FPGAs
-- [ ] Overview of Microchip FPGA Families
+- [x] Advantages of Microchip FPGAs
+- [x] Overview of Microchip FPGA Families
 - [ ] 3rd Generation Architectureal Blocks
 - [ ] 4th Generation Architectureal
 - [ ] 5th Generation Architectureal
