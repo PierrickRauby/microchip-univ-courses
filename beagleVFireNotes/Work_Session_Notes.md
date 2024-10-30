@@ -1,4 +1,6 @@
-# October 26, 2024
+# Work Logs
+
+## October 26, 2024
 
 Work logs:
 - Last time installed the microchip tools from [Microchip FPGA Tools Installation Guide](https://docs.beagleboard.org/boards/beaglev/fire/demos-and-tutorials/mchp-fpga-tools-installation-guide.html#beaglev-fire-mchp-fpga-tools-installation-guide) and finished the tutorial [Customize BeagleV-Fire Cape Gateware Using Verilog](https://docs.beagleboard.org/boards/beaglev/fire/demos-and-tutorials/gateware/customize-cape-gateware-verilog.html).
@@ -10,7 +12,7 @@ Work logs:
 
 
 
-# Octover 28, 2024
+## October 28, 2024
 
 Work logs:
 - Trying to figure out the error from last time where the scripts cannot find synplify_pro:
@@ -30,4 +32,10 @@ Error:  Failed to execute: '/home/media/microchip/Libero_SoC_v2024.1/SynplifyPro
 ```
 -  Looks like the issue is because the script is looking under `/microchip` and not under `/Microchip`, created a symbolic link for one to the other to test
 - fixed it by moving the Synplify pro installation script to the correct microchip foler. When I have time I should probably reinstall all the tools with a clean path
-- 
+
+
+## October 29, 2024
+
+- Connected to the BeagleboneV fire via ttyACM0 on the Ubuntu Machine
+- Local ip 172.21.8.233
+- Next step is to continue the [Exploring Gateware Design with Libero Tutorial](https://docs.beagleboard.org/boards/beaglev/fire/demos-and-tutorials/gateware/exploring-gateware-design-libero.html#exploring-gateware-design-with-libero)
