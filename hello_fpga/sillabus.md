@@ -11,16 +11,16 @@ From https://mu.microchip.com/hello-fpga
 
 - [x] Advantages of Microchip FPGAs
 - [x] Overview of Microchip FPGA Families
-- [ ] 3rd Generation Architectureal Blocks
-- [ ] 4th Generation Architectureal
-- [ ] 5th Generation Architectureal
-- [ ] Microchip FPGA Applications
-- [ ] How to Choose the Right FPGA
+- [x] 3rd Generation Architectureal Blocks
+- [x] 4th Generation Architectureal
+- [x] 5th Generation Architectureal
+- [x] Microchip FPGA Applications
+- [x] How to Choose the Right FPGA
 
 ## Design
 
-- [ ] Design Flow
-- [ ] Libero Design Suite
+- [x] Design Flow
+- [x] Libero Design Suite
 - [ ] Libero Features
 
 ## Demo
