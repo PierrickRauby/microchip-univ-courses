@@ -21,7 +21,7 @@ From https://mu.microchip.com/hello-fpga
 
 - [x] Design Flow
 - [x] Libero Design Suite
-- [ ] Libero Features
+- [x] Libero Features
 
 ## Demo
 
