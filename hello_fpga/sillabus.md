@@ -25,6 +25,6 @@ From https://mu.microchip.com/hello-fpga
 
 ## Demo
 
-- [ ] Demo Overview
-- [ ] Demo Board Overview
-- [ ] Demo
+- [x] Demo Overview
+- [x] Demo Board Overview
+- [x] Demo
